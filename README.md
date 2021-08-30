@@ -8,4 +8,4 @@ This API is deployed using CICD via AWS CodePipeline and AWS ElasticBeanstalk.
 
 structure:
 
-![structure](https://imgpile.com/images/N3j0hw.png)
+![alt-text](pipeline.png)
